@@ -1,0 +1,60 @@
+body{
+	background-image: url("../images/bananas.png")
+}
+.main-container {
+	font-weight: bold;
+    text-align: left;
+    font-size: 30pt;
+    color: white;
+    background-color: orange;
+    margin: 10px;
+	width: 20%
+}
+.main-section {
+    background-color: tan;
+	margin: 10px;
+    width: 25%;
+    border: solid 2px antiquewhite;
+    padding: 10px;
+    color: green;
+    font-weight: bold;
+
+}
+
+.random {
+	float: left;
+    background-color: white;
+	margin: 10px;
+    width: 25%;
+    
+    padding: 10px;
+    color: green;
+    font-weight: bold;
+}
+
+.score {
+    float: right;
+    background-color: rgb(108, 189, 189);
+    width: 25%;
+    padding: 10px;
+    color: green;
+    font-weight: bold;
+
+}
+.userTotal{
+    background-color: tan;
+	margin: 10px;
+    width: 25%;
+    border: solid 10px black;
+    padding: 10px;
+    color: green;
+    font-weight: bold;
+  
+}
+.gems{
+	clear: both;
+}
+.gemImage{
+	height: 70px;
+	margin: 20px;
+}
